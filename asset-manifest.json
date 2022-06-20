@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/dcv-react-site/static/css/main.fd00f16b.css",
-    "main.js": "/dcv-react-site/static/js/main.75024389.js",
+    "main.css": "/dcv-react-site/static/css/main.5359d472.css",
+    "main.js": "/dcv-react-site/static/js/main.e3517df8.js",
     "static/js/787.578b50f3.chunk.js": "/dcv-react-site/static/js/787.578b50f3.chunk.js",
     "static/media/dcv_white.png": "/dcv-react-site/static/media/dcv_white.a16065299f800900f4bc.png",
     "index.html": "/dcv-react-site/index.html",
-    "main.fd00f16b.css.map": "/dcv-react-site/static/css/main.fd00f16b.css.map",
-    "main.75024389.js.map": "/dcv-react-site/static/js/main.75024389.js.map",
+    "main.5359d472.css.map": "/dcv-react-site/static/css/main.5359d472.css.map",
+    "main.e3517df8.js.map": "/dcv-react-site/static/js/main.e3517df8.js.map",
     "787.578b50f3.chunk.js.map": "/dcv-react-site/static/js/787.578b50f3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fd00f16b.css",
-    "static/js/main.75024389.js"
+    "static/css/main.5359d472.css",
+    "static/js/main.e3517df8.js"
   ]
 }
